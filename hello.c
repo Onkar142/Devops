@@ -5,6 +5,7 @@
 	{
 		printf("Hello");
 		printf("namskar");
+		printf("onkar");
 	}
 	
 
