@@ -3,8 +3,8 @@
 
 	void main()
 	{
-		printf("Hello");
-		printf("namskar");
+		printf("thik ahe ");
+		
 	}
 	
 
