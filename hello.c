@@ -6,6 +6,7 @@
 		printf("Hello");
 		printf("namskar");
 		printf("onkar");
+		print ("ok");
 	}
 	
 
