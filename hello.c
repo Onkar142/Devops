@@ -7,6 +7,7 @@
 		printf("namskar");
 		printf("onkar");
 		print ("ok");
+		
 	}
 	
 
